@@ -1,5 +1,6 @@
 # About me
-Undergraduate of CUMT
+An undergraduate from CUMT.🈚⛰️
+[![fe1w0's github stats](https://github-readme-stats.vercel.app/api?username=fe1w0&?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More about me
 ```go
@@ -17,10 +18,10 @@ func main() {
     Email: "xzasliuxinrong@gmail.com",
     Job: "Undergraduate",
     Code: "PHP and Python...",
-    BestAndFavoriteSkill: "Web Hacking 🐕"
+    BestAndFavoriteSkill: "Sleeping😴 and 💦"
   }
   _ = me
 }
 ```
 
-[![fe1w0's github stats](https://github-readme-stats.vercel.app/api?username=fe1w0&?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
