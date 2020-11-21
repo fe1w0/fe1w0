@@ -10,6 +10,7 @@ type Me struct{
   Email string
   Job string
   Code string
+  Blog string
   BestAndFavoriteSkill string
 }
 
@@ -18,10 +19,9 @@ func main() {
     Email: "xzasliuxinrong@gmail.com",
     Job: "Undergraduate",
     Code: "PHP and Python...",
+    Blog: "xzaslxr.xyz or  fe1w0.github.io",
     BestAndFavoriteSkill: "Sleeping😴 and 💦"
   }
   _ = me
 }
 ```
-
-
