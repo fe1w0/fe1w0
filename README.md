@@ -1,5 +1,6 @@
 # About me
-～～An undergraduate from CUMT.🈚⛰️ 2018 - 2022～～ 
+An undergraduate from CUMT.🈚⛰️ 2018 - 2022
+
 A graduate student of Xidian University 2022 - 2024
 
 [![fe1w0's github stats](https://github-readme-stats.vercel.app/api?username=fe1w0&?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,10 +20,10 @@ type Me struct{
 func main() {
   me := &Me{
     Email: "xzasliuxinrong@gmail.com",
-    Job: "Undergraduate",
+    Job: "Graduate student",
     Code: "PHP and Python...",
     Blog: "xzaslxr.xyz or  fe1w0.github.io",
-    BestAndFavoriteSkill: "Sleeping😴 and 💦"
+    BestAndFavoriteSkill: "Sleep😴 and Play💦"
   }
   _ = me
 }
