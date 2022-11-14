@@ -1,5 +1,7 @@
 # About me
-An undergraduate from CUMT.🈚⛰️
+～～An undergraduate from CUMT.🈚⛰️ 2018 - 2022～～ 
+A graduate student of Xidian University 2022 - 2024
+
 [![fe1w0's github stats](https://github-readme-stats.vercel.app/api?username=fe1w0&?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More about me
