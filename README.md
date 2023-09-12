@@ -3,7 +3,7 @@ An undergraduate from CUMT.🈚⛰️ 2018 - 2022
 
 A graduate student of Xidian University 2022 - 2025
 
-[![fe1w0's github stats](https://github-readme-stats.vercel.app/api?username=fe1w0&?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![fe1w0's github stats](https://readme-stats.clckblog.space/api?username=fe1w0&?theme=radical)](https://readme-stats.clckblog.space/api?username=fe1w0&?theme=radical)
 
 ## More about me
 ```go
