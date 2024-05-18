@@ -24,6 +24,7 @@ func main() {
     Code: "PHP, Java, Souffle and Python...",
     Blog: "xzaslxr.xyz or  fe1w0.github.io",
     BestAndFavoriteSkill: "Sleep😴, Take photos📷 and Play💦"
+    CVE: "CVE-2024-22871,CVE-2024-31501,CVE-2017-20189"
   }
   _ = me
 }
