@@ -1,9 +1,9 @@
 # About me
-An undergraduate from CUMT.🈚⛰️ 2018 - 2022
+An undergraduate from CUMT. 2018 - 2022
 
-A graduate student of Xidian University 2022 - 2025
+A graduate student at Xidian University. 2022 - 2025
 
-[![fe1w0's github stats](https://readme-stats.clckblog.space/api?username=fe1w0&?theme=radical)](https://readme-stats.clckblog.space/api?username=fe1w0&?theme=radical)
+A Security Engineer at Alibaba. 2025 - present
 
 ## More about me
 ```go
