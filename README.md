@@ -20,7 +20,7 @@ type Me struct{
 func main() {
   me := &Me{
     Email: "xzasliuxinrong@gmail.com",
-    Job: "Graduate student from NCNIPC Lab",
+    Job: "Alibaba Security Engineer",
     Code: "PHP, Java, Souffle and Python...",
     Blog: "xzaslxr.xyz or  fe1w0.github.io",
     BestAndFavoriteSkill: "Sleep😴, Take photos📷 and Play💦",
